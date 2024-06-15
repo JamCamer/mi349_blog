@@ -69,3 +69,18 @@ p {
     display: block;
     margin: 1em 0;
 }
+
+/*table*/
+table {
+    width: 100%;
+    margin: 1em 0;
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+}
+
+th, td {
+    padding: 0.5em;
+    text-align: left;
+}
