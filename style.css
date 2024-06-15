@@ -11,6 +11,14 @@ body {
     background: #eee;
     min-height: 50em;
 }
+header {   
+    background-color: #4caf50;
+    color: black;
+    padding: 1em 0;
+    text-align: center;
+    box box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
 
 h1 {
     font-size: 3em;
