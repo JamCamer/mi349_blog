@@ -12,11 +12,16 @@ body {
     min-height: 50em;
 }
 header {   
-    background-color: #4caf50;
+    background-color: #87bc88;
     color: black;
     padding: 1em 0;
     text-align: center;
     box box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+/*Navigation Style*/
+nav ul {
+    list-style-type: none;
+    padding: 0;
 }
 
 
