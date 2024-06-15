@@ -84,3 +84,11 @@ th, td {
     padding: 0.5em;
     text-align: left;
 }
+
+th {
+    background-color: aqua;
+}
+
+/*form*/
+
+form lable
