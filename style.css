@@ -40,6 +40,11 @@ p {
     max-width: 800px;
 }
 
+#blog h2 {
+    font-size: 2em;
+    margin-bottom: 1em;
+}
+
 .blog-post {
     border-bottom: 1px dotted #ccc;
 }
