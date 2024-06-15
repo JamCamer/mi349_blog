@@ -62,3 +62,10 @@ p {
 .blog-post p {
     margin: 1em 0;
 }
+
+.blog-post img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 1em 0;
+}
