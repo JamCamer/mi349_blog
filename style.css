@@ -12,7 +12,7 @@ body {
     min-height: 50em;
 }
 header {   
-    background-color: #87bc88;
+    background-color: #57f85a;
     color: black;
     padding: 1em 0;
     text-align: center;
@@ -26,7 +26,7 @@ nav ul {
 
 
 h1 {
-    font-size: 3em;
+    font-size: 2.5em;
     margin: 0;
 }
 
