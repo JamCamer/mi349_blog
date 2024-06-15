@@ -58,3 +58,7 @@ p {
 .blog-post address {
     font-style: normal;
 }
+
+.blog-post p {
+    margin: 1em 0;
+}
