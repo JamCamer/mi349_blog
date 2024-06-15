@@ -12,18 +12,15 @@ body {
     min-height: 50em;
 }
 header {   
-    background-color: #57f85a;
     color: black;
     padding: 1em 0;
     text-align: center;
-    box box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 /*Navigation Style*/
 nav ul {
     list-style-type: none;
     padding: 0;
 }
-
 
 h1 {
     font-size: 2.5em;
@@ -34,8 +31,13 @@ p {
     line-height: 1.4em;
 }
 
+/*blog section*/
+
 #blog {
+    padding: 2em;
     border-top: 1px dotted #ccc;
+    margin: 2em;
+    max-width: 800px;
 }
 
 .blog-post {
