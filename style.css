@@ -159,3 +159,10 @@ form button {
 form button: hover {
     background-color: #b7151515;
 }
+
+/*flexbox*/
+
+.flex-container {
+    display: flex;
+    justify-content: 1em;
+}
