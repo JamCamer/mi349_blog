@@ -166,3 +166,29 @@ form button: hover {
     display: flex;
     justify-content: 1em;
 }
+
+.two-column {
+    display: flex;
+    justify-content: space-between;
+}
+
+.two-column > * {
+    flex: 1;
+    padding: 1em;
+    background: #fff;
+}
+
+.three-column {
+    display: flex;
+    gap: 1em;
+}
+
+.three-column > * {
+    flex: 1;
+    padding: 1em;
+    background: #fff;
+}
+
+.three-column .middle {
+    flex: 2;
+}
