@@ -141,14 +141,6 @@ form label {
     font-weight: bold;
 }
 
-form label {
-    background-color: white;
-    padding: 2em;
-    margin: 2em auto;
-    max-width: 2em auto;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
-
 form input[type="text"], form input[type="email"], form textarea, form select {
     width: 100%;
     padding: 0.5em;
@@ -170,7 +162,7 @@ form button: hover {
     background-color: #b7151515;
 }
 
-/*flexbox*/
+/*flexbox layout*/
 
 .flex-container {
     display: flex;
