@@ -91,6 +91,12 @@ p {
     margin: 1em 0;
 }
 
+.blog-post img[alt="Yoga"] {
+    float: left;
+    margin-right: 1em;
+    caption-side: bottom;
+}
+
 /*table*/
 table {
     width: 100%;
