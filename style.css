@@ -118,6 +118,12 @@ th {
 
 /*form*/
 
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+}
+
 form label {
     background-color: white;
     padding: 2em;
