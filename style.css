@@ -39,6 +39,10 @@ nav uv li a {
     font-weight: bold;
 }
 
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
 h1 {
     font-size: 2.5em;
     margin: 0;
