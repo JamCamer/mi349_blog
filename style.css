@@ -29,6 +29,16 @@ nav ul {
     gap: 20px;
 }
 
+nav uv li {
+    display: inline;
+}
+
+nav uv li a {
+    color: #242424;
+    text-decoration: none;
+    font-weight: bold;
+}
+
 h1 {
     font-size: 2.5em;
     margin: 0;
