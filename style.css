@@ -195,12 +195,6 @@ form button: hover {
     flex: 2;
 }
 
-@media (min-width: 770px) {
-    .blog-post {
-        flex-direction: row;
-    }
-}
-
 /*Float an image*/
 
 .blog-post[alt="Yoga"] {
