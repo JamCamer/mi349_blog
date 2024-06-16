@@ -125,6 +125,13 @@ form {
 }
 
 form label {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5em;
+    font-weight: bold;
+}
+
+form label {
     background-color: white;
     padding: 2em;
     margin: 2em auto;
