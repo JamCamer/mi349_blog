@@ -69,6 +69,20 @@ p {
 .blog-post {
     border-bottom: 1px dotted #ccc;
     margin-bottom: 2em;
+    display: flex;
+    flex-direction: column;
+}
+
+.blog-post img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 1em 0;
+}
+
+.blog-post-content {
+    flex: 2;
+    padding: 0.5em
 }
 
 .blog-post h3 {
@@ -84,17 +98,13 @@ p {
     margin: 1em 0;
 }
 
-.blog-post img {
-    max-width: 100%;
-    height: auto;
-    display: block;
-    margin: 1em 0;
+.blog-post a {
+    color: #4CAF%);
+    text-decoration: none;
 }
 
-.blog-post img[alt="Yoga"] {
-    float: left;
-    margin-right: 1em;
-    caption-side: bottom;
+.blog-post a:hover {
+    text-decoration: underline;
 }
 
 /*table*/
