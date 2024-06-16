@@ -15,11 +15,17 @@ header {
     color: black;
     padding: 1em 0;
     text-align: center;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
 }
 /*Navigation Style*/
 nav ul {
     list-style-type: none;
     padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
 }
 
 h1 {
