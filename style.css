@@ -200,3 +200,11 @@ form button: hover {
         flex-direction: row;
     }
 }
+
+/*Float an image*/
+
+.blog-post[alt="Yoga"] {
+    float: left;
+    margin-right: 1em;
+    caption-side: bottom;
+}
