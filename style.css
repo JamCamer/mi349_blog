@@ -194,3 +194,9 @@ form button: hover {
 .three-column .middle {
     flex: 2;
 }
+
+@media (min-width: 770px) {
+    .blog-post {
+        flex-direction: row;
+    }
+}
